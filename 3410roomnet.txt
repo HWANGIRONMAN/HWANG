@@ -1,0 +1,10 @@
+room num 3410 network setting project
+
+pat
+-os 1-4 
+-device
+
+pa2
+- osi5-7 layer
+-application: app,tcp/ip network program
+
