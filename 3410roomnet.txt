@@ -8,3 +8,4 @@ pa2
 - osi5-7 layer
 -application: app,tcp/ip network program
 
+dkajdkadasdjakjdjakdjak소프트웨어
